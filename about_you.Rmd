@@ -11,29 +11,25 @@ date: "`r Sys.Date()`"
 
 # A Little Survey
 
-aaHere are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
-  
+   
 ### my answer     
-  
-
-     
-
-
+I graduated highschool from Desert Sands Charter school, while I was there I didn't really like math or English but I did enjoy english more. My best subject in school was probably like economics or civics. 
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+I have a PC and when it comes to knowing computer stuff like this I rate myself a 1, a complete dummy. My internet is pretty good so you won't have to worry about that unless there's a power outage or something then I won't have internet.    
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I prefer to be called by my given name, Maya.   
    
  
 
@@ -44,7 +40,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+One day I hope to complete law school and become a lawyer, anything like debate or any class that involves politics I really enjoy. I am a Law polices and society major.     
    
  
 
@@ -55,7 +51,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+I have been to Ensanada, Mexico once for my 16th birthday. I haven't been in the military but I have gone to school on Edwards for most of my life, which is an Air Force Base. If I was ever in the military I would choose the airforce but I will never be because of my peanut allergy.    
    
   
 
@@ -68,7 +64,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+I'm taking statistics to satisfy a major requirement, I need atleast a C so I can transfer to the college I want to.    
    
  
 
